@@ -65,7 +65,7 @@ venv.bak/
 data/
 results/
 checkpoints/
-references/
+# references/
 demo-audios/
 example/
 filelists/
@@ -73,7 +73,7 @@ filelists/
 
 # Audio Files
 # -----------
-*.wav
+# *.wav
 *.mp3
 *.flac
 *.ogg
@@ -85,7 +85,7 @@ filelists/
 *.npz
 *.pkl
 *.pickle
-*.lab
+# *.lab
 /fish_speech/text/cmudict_cache.pickle
 
 # Cache and Temporary Files
